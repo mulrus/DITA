@@ -1,4 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic
   PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
-<topic xml:lang="en-US" id="_Appendix_A._How"><title>Appendix A. How to create the Eclipse account</title><body><p>1 – Click “<b>Create an account</b>” link. Default web browser will be opened with the Eclipse registration form.</p><p>2 – Provide information to the necessary fields and click <b>CREATE NEW ACCOUNT</b></p><p><image href="../ECLIPSE%20Comtek_files/image24.png" height="491" width="693" alt="???"/></p><p><b>Figure A-1. Steps to register Eclipse account</b></p><p>Wait for special e-mail notification letter to finish your registration.</p><p><image href="../ECLIPSE%20Comtek_files/image25.png" height="470" width="678" alt="???"/></p><p><b>Figure A-2. Confirmation letter to register Eclipse account</b></p></body></topic>
+<topic xml:lang="en-US" id="_Appendix_A._How">
+  <title>Appendix A. How to create the Eclipse account</title>
+  <body>
+    <p>1 – Click “<b>Create an account</b>” link. Default web browser will be opened with the
+      Eclipse registration form.</p>
+    <p>2 – Provide information to the necessary fields and click <b>CREATE NEW ACCOUNT</b></p>
+    <p><image href="../ECLIPSE%20TEST _files/image24.png" height="491" width="693" alt="???"/></p>
+    <p><b>Figure A-1. Steps to register Eclipse account</b></p>
+    <p>Wait for special e-mail notification letter to finish your registration.</p>
+    <p><image href="../ECLIPSE%20TEST _files/image25.png" height="470" width="678" alt="???"/></p>
+    <p><b>Figure A-2. Confirmation letter to register Eclipse account</b></p>
+  </body>
+</topic>
