@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+  PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic xml:lang="en-US" id="d0e154"><title>2.1. Search</title><body><p>In the search tab, you can search any tools and plugins according to your requests expectations.</p><p>Type any search phrase in the <b>Find</b> field and push <b>Go</b> button. </p><p><image href="../ECLIPSE%20Comtek_files/image8.png" height="549" width="507" alt="???"/></p><p><b>Figure 2-1. Searching apps in the Eclipse Marketplace</b></p><p>Search windows allows you to find additional tools using special filters in the list boxes:</p><p>- <b>Markets</b> – choose type of market where tool published.</p><p>- <b>Categories</b> – different kind of tools categories.</p><p><image href="../ECLIPSE%20Comtek_files/image9.png" height="738" width="655" alt="???"/></p><p><b>Figure 2-2. Markets and Categories filters content</b></p></body></topic>
